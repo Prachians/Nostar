@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Nostar/static/css/main.7d8ddb0a.css",
+    "main.js": "/Nostar/static/js/main.5d32ae6c.js",
+    "index.html": "/Nostar/index.html",
+    "main.7d8ddb0a.css.map": "/Nostar/static/css/main.7d8ddb0a.css.map",
+    "main.5d32ae6c.js.map": "/Nostar/static/js/main.5d32ae6c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d8ddb0a.css",
+    "static/js/main.5d32ae6c.js"
+  ]
+}
