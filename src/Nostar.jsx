@@ -15,7 +15,7 @@ function Nostar() {
             </div> }
 
             { <Routes >
-                <Route exact path='/' element={<Home/>}/> 
+                <Route exact path='/Nostar' element={<Home/>}/> 
                 <Route exact path='/episode' element={<Episodes/>}/> 
                 <Route exact path='/movie' element={<Movies/>}/> 
                 <Route exact path='/premium' element={<Premium/>}/>

@@ -32,7 +32,7 @@ function Header() {
                 </div>
                 {<div className="header_right">
                     <form>
-                        <NavLink to="/nostar" style={{ textDecoration: 'none' }}>All💥</NavLink>
+                        <NavLink to="/Nostar" style={{ textDecoration: 'none' }}>All💥</NavLink>
                         <input type="text" placeholder='search'></input>
                     </form>
                 </div>}

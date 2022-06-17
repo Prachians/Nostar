@@ -9,7 +9,7 @@ function Modal() {
                 <button><NavLink to="/movie" style={{ textDecoration: 'none' }}>Movies</NavLink></button>
                 <button><NavLink to="/premium" style={{ textDecoration: 'none' }}>Premium</NavLink></button>
                 <button><NavLink to="upcomings" style={{ textDecoration: 'none' }}>Upcomings</NavLink></button>
-                <button><NavLink to="/" style={{ textDecoration: 'none' }}>All💥</NavLink></button>
+                <button><NavLink to="/Nostar" style={{ textDecoration: 'none' }}>All💥</NavLink></button>
             </div>
 
         </div>
